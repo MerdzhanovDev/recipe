@@ -1,0 +1,5 @@
+cappuccino:
+1. turn on the machine
+2. put coffe in the machine
+3. make the coffee
+4. add milk
