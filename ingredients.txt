@@ -4,3 +4,8 @@ milk
 coffee
 sugar
 cinnamon
+adding more things
+
+function test(){
+console.log('adsa')
+}
